@@ -1,0 +1,10 @@
+[
+    {
+        "Statement": "INSERT INTO "Books" value {'Author': '?', 'Title': '?'}",
+		"Parameters": [{"S": "Acme Band"}, {"S": "Best Song"}]
+    },
+    {
+        "Statement": "INSERT INTO "Books" value {'Author': '?', 'Title': '?'}",
+		"Parameters": [{"S": "Julien Simon"}, {"S": "Learn Amazon SageMaker"}]
+    }
+]

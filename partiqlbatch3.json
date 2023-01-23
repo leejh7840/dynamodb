@@ -1,0 +1,8 @@
+[
+    {
+        "Statement": "INSERT INTO "Books" value {'Author': 'Antje Barth', 
+		'Title': 'Data Science on AWS',
+		'Category': 'Technology', 
+		'Formats': { 'Hardcover': 'J4SUKVGU', 'Paperback': 'D7YF4FCX' } }"
+    }
+]
